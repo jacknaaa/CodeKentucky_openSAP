@@ -9,4 +9,4 @@ puzzle.show()
 
 # Display the solution
 print("\nSolution:")
-puzzle.solve()
+puzzle.solve().show()
