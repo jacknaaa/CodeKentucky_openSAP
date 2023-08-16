@@ -1,4 +1,4 @@
 import wikipedia
 
-result = wikipedia.page("Iguana")
+result = wikipedia.page("Apple")
 print(result.summary)
